@@ -8,13 +8,3 @@ __pycache__/
 *.pth
 *.pth.tar
 *.tar.gz
-
-# 权重文件夹
-./officialWeights/*
-./rsipy/mdiffusion/ddpm/logs/*
-./rsipy/mdiffusion/ddpm/data/*
-
-# 存放数据的文件夹
-dataset_all
-mdet/yolov2-yolov3_PyTorch.zip
-mdet/yolo基础1.zip
